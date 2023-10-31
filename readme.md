@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/r2s0ts1l6oh08648?svg=true)](https://ci.appveyor.com/project/AnnaKiryanova/cradtransfer)
 
 ## Задача №1: Page Object's
 
